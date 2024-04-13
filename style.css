@@ -130,10 +130,7 @@ nav .menu{
   background: white;
   color: black;
 }
-.footer{
-  color: black;
-  text-align: center;
-}
-.footer h2{
+footer{
+  background-color: black;
   color: white;
-}
+)
