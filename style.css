@@ -131,6 +131,9 @@ nav .menu{
   color: black;
 }
 .footer{
-  color: white;
+  color: black;
   text-align: center;
+}
+.footer h2{
+  color: white;
 }
